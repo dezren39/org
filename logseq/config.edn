@@ -231,7 +231,7 @@
  :journal/page-title-format "yyyy-MM-dd EEEE"
  :editor/logical-outdenting? true
  :publishing/all-pages-public? true
- :graph/settings {:builtin-pages? true, :journal? true}
+ :graph/settings {:builtin-pages? true, :journal? true, :excluded-pages? true, :orphan-pages? true}
  :preferred-format :org
  :feature/enable-whiteboards? true
 
