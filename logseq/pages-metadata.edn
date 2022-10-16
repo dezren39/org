@@ -15,7 +15,7 @@
   :block/updated-at 1665900231471}
  {:block/name "2022-10-16 sunday",
   :block/created-at 1665896400678,
-  :block/updated-at 1665912102094}
+  :block/updated-at 1665917045349}
  {:block/name "2022-10-16t01-05-33-0500",
   :block/created-at 1665900337837,
   :block/updated-at 1665901200874}
@@ -163,7 +163,23 @@
  {:block/name
   "z/2022/10/16/05/34/16/-0500/sunday, october 16/the early days of id software",
   :block/created-at 1665916466960,
-  :block/updated-at 1665916482931}
+  :block/updated-at 1665916561241}
+ {:block/name "z/2022/10/16/05/41",
+  :block/created-at 1665916910787,
+  :block/updated-at 1665916910787}
+ {:block/name "z/2022/10/16/05/41/41",
+  :block/created-at 1665916910787,
+  :block/updated-at 1665916910787}
+ {:block/name "z/2022/10/16/05/41/41/-0500",
+  :block/created-at 1665916910788,
+  :block/updated-at 1665916910788}
+ {:block/name "z/2022/10/16/05/41/41/-0500/sunday, october 16",
+  :block/created-at 1665916910789,
+  :block/updated-at 1665916910789}
+ {:block/name
+  "z/2022/10/16/05/41/41/-0500/sunday, october 16/so this is the format i guess",
+  :block/created-at 1665916910790,
+  :block/updated-at 1665917013342}
  {:block/name "z/?????😎",
   :block/created-at 1665915843423,
   :block/updated-at 1665915863267}
