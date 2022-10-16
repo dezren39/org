@@ -1,7 +1,4 @@
-[{:block/name "01b.us",
-  :block/created-at 1665922148358,
-  :block/updated-at 1665922148358}
- {:block/name "202 october",
+[{:block/name "202 october",
   :block/created-at 1665914768043,
   :block/updated-at 1665914787331}
  {:block/name "202 october ",
@@ -10,9 +7,6 @@
  {:block/name "2022",
   :block/created-at 1665916289696,
   :block/updated-at 1665916289696}
- {:block/name "2022-10-14 friday",
-  :block/created-at 1665920409763,
-  :block/updated-at 1665920409763}
  {:block/name "2022-10-15 saturday",
   :block/created-at 1665895163885,
   :block/updated-at 1665913433148}
@@ -38,18 +32,9 @@
  {:block/name "2022-10-16t05-02-37-0500 sunday, october 16 physics",
   :block/created-at 1665914563230,
   :block/updated-at 1665914575681}
- {:block/name "2022-10-17 monday",
-  :block/created-at 1665913441568,
-  :block/updated-at 1665913441568}
  {:block/name "2022-10-18 tuesday",
   :block/created-at 1665913449128,
   :block/updated-at 1665920435409}
- {:block/name "2022-10-19 wednesday",
-  :block/created-at 1665920429940,
-  :block/updated-at 1665920429940}
- {:block/name "2022-10-24 monday",
-  :block/created-at 1665920422292,
-  :block/updated-at 1665920422292}
  {:block/name "2022/10",
   :block/created-at 1665916289698,
   :block/updated-at 1665916289698}
@@ -111,60 +96,27 @@
  {:block/name "cop",
   :block/created-at 1665913618812,
   :block/updated-at 1665913618812}
- {:block/name "default.computer",
-  :block/created-at 1665922326040,
-  :block/updated-at 1665922326040}
- {:block/name "default.properties",
-  :block/created-at 1665922318098,
-  :block/updated-at 1665922318098}
- {:block/name "developing.today",
-  :block/created-at 1665922100335,
-  :block/updated-at 1665922100335}
  {:block/name "doing",
   :block/created-at 1665895029182,
   :block/updated-at 1665895029182}
  {:block/name "done",
   :block/created-at 1665895029181,
   :block/updated-at 1665895029181}
- {:block/name "drewry.dev",
-  :block/created-at 1665922296523,
-  :block/updated-at 1665922296523}
- {:block/name "drewrypope.com",
-  :block/created-at 1665922288314,
-  :block/updated-at 1665922288314}
  {:block/name "eau3d.com",
   :block/created-at 1665922118484,
   :block/updated-at 1665922118484}
  {:block/name "favorites",
   :block/created-at 1665895029181,
   :block/updated-at 1665895029181}
- {:block/name "hax.live",
-  :block/created-at 1665922283160,
-  :block/updated-at 1665922283160}
  {:block/name "in-progress",
   :block/created-at 1665895029182,
   :block/updated-at 1665895029182}
- {:block/name "l0x.dev",
-  :block/created-at 1665922241083,
-  :block/updated-at 1665922241083}
- {:block/name "lair.cloud",
-  :block/created-at 1665922220696,
-  :block/updated-at 1665922220696}
  {:block/name "later",
   :block/created-at 1665895029182,
   :block/updated-at 1665895029182}
  {:block/name "now",
   :block/created-at 1665895029181,
   :block/updated-at 1665895029181}
- {:block/name "rom",
-  :block/created-at 1665922250692,
-  :block/updated-at 1665922250692}
- {:block/name "s0s.pw",
-  :block/created-at 1665922258949,
-  :block/updated-at 1665922258949}
- {:block/name "security.cab",
-  :block/created-at 1665922271140,
-  :block/updated-at 1665922271140}
  {:block/name "todo",
   :block/created-at 1665895029182,
   :block/updated-at 1665895029182}
@@ -231,6 +183,24 @@
   "z/2022/10/16/05/41/41/-0500/sunday, october 16/so this is the format i guess",
   :block/created-at 1665916910790,
   :block/updated-at 1665917013342}
+ {:block/name "z/2022/10/16/08",
+  :block/created-at 1665929012677,
+  :block/updated-at 1665929012677}
+ {:block/name "z/2022/10/16/08/42",
+  :block/created-at 1665929012678,
+  :block/updated-at 1665929012678}
+ {:block/name "z/2022/10/16/08/42/44",
+  :block/created-at 1665929012679,
+  :block/updated-at 1665929012679}
+ {:block/name "z/2022/10/16/08/42/44/sunday, october 16",
+  :block/created-at 1665929012681,
+  :block/updated-at 1665929012681}
+ {:block/name "z/2022/10/16/08/42/44/sunday, october 16/01b.us",
+  :block/created-at 1665929012682,
+  :block/updated-at 1665929012682}
+ {:block/name "z/2022/10/16/08/42/44/sunday, october 16/01b.us/rack",
+  :block/created-at 1665929012672,
+  :block/updated-at 1665929012672}
  {:block/name "z/?????😎",
   :block/created-at 1665915843423,
   :block/updated-at 1665915863267}
@@ -238,8 +208,5 @@
   :block/created-at 1665916143123,
   :block/updated-at 1665916143123}
  {:block/name "ze/frank",
-  :block/created-at 1665916143124,
-  :block/updated-at 1665916146068}
- {:block/name "ze/pizza",
-  :block/created-at 1665916204600, 
-  :block/updated-at 1665916204600}]
+  :block/created-at 1665916143124, 
+  :block/updated-at 1665916146068}]
