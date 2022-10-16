@@ -233,6 +233,7 @@
  :publishing/all-pages-public? true
  :graph/settings {:builtin-pages? true, :journal? true}
  :preferred-format :org
+ :feature/enable-whiteboards? true
 
  ;; Properties to exclude from having property pages
  ;; E.g.:property-pages/excludelist #{:duration :author}
