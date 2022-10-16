@@ -19,14 +19,36 @@
 *** dimension_id
 ** matter
 *** id metadata_hash
-*** url
+*** name
 *** description
-*** valuepath
+*** atomid
+*** urlid
+*** valueurl_id
+*** valuehash_id
 *** timestamp
 ** dark_matter
 *** id metadata_hash
-*** atom_id
-*** url
+*** name
 *** description
-*** value_path
+*** atom_id
+*** url_id
+*** value_url_id
+*** value_hash_id
 *** timestamp
+** data
+*** metadata_hash
+*** value
+** encrypted_data
+*** metadata_hash
+*** value
+** url
+*** id metadata_hash
+*** protocol_atom_id
+*** path
+*** port
+*** value (protocol://path:port)
+** hash
+*** protocol_atom_id
+*** hasher_atom_id
+*** value
+**
