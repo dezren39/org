@@ -7,9 +7,6 @@
  {:block/name "2022",
   :block/created-at 1665916289696,
   :block/updated-at 1665916289696}
- {:block/name "2022-10-14 friday",
-  :block/created-at 1665920409763,
-  :block/updated-at 1665920409763}
  {:block/name "2022-10-15 saturday",
   :block/created-at 1665895163885,
   :block/updated-at 1665913433148}
@@ -40,13 +37,7 @@
   :block/updated-at 1665913441568}
  {:block/name "2022-10-18 tuesday",
   :block/created-at 1665913449128,
-  :block/updated-at 1665920435409}
- {:block/name "2022-10-19 wednesday",
-  :block/created-at 1665920429940,
-  :block/updated-at 1665920429940}
- {:block/name "2022-10-24 monday",
-  :block/created-at 1665920422292,
-  :block/updated-at 1665920422292}
+  :block/updated-at 1665913449128}
  {:block/name "2022/10",
   :block/created-at 1665916289698,
   :block/updated-at 1665916289698}
