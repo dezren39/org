@@ -1,0 +1,11 @@
+:root {
+  /* hsl colors */
+  --fox-hs-1: 0deg, 100%;
+  --fox-l-1: 100%;
+
+  --fox-hs-2: 30deg, 100%;
+  --fox-l-2: 100%;
+
+  --fox-hs-bg: 0deg, 0%;
+  --fox-l-bg: 0%;
+}
