@@ -231,7 +231,7 @@
  :journal/page-title-format "yyyy-MM-dd EEEE"
  :editor/logical-outdenting? true
  :publishing/all-pages-public? true
- :graph/settings {:builtin-pages? true}
+ :graph/settings {:builtin-pages? true, :journal? true}
 
  ;; Properties to exclude from having property pages
  ;; E.g.:property-pages/excludelist #{:duration :author}
