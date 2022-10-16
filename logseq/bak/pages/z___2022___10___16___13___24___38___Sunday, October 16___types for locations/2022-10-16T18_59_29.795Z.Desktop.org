@@ -1,0 +1,26 @@
+* [[2022-10-16 Sunday]][[z/2022/10/16]]
+* table
+** atom
+*** id metadata_hash
+*** name
+*** description
+*** base_id
+*** [parent_id]
+*** [value_id]
+*** [url_id]
+*** [hash_id]
+*** timestamp
+** dimension
+*** id metadata_hash
+*** source
+*** host
+*** name
+*** author
+*** timestamp
+** atom_dimension_lookup
+*** lookup_atom_id
+*** atom_id
+*** dimension_id
+** matter
+*** id_metadata_jh
+**
