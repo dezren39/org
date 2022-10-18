@@ -1,14 +1,14 @@
 #NoEnv
 #KeyHistory 12330
 #Hotstring ? z
-SendMode Input
-SetBatchLines,-1
-SetControlDelay,-1
+;SendMode Input
+;SetBatchLines,-1
+;SetControlDelay,-1
 SetDefaultMouseSpeed,0
-SetKeyDelay,-1,-1
+;SetKeyDelay,-1,-1
 SetMouseDelay,-1
-SetWinDelay,-1
-;SetNumLockState,AlwaysOn
+;SetWinDelay,-1
+SetNumLockState,AlwaysOn
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 SetTitleMatchMode,2 ;Match title when string is contained anywhere inside.
 #SingleInstance,force
@@ -40,10 +40,22 @@ return
 ;#[[2022-10-16 Sunday]]#[[z/2022/10/16]]
 #!right::
 #right::
+keywait right
+keywait lwin
+keywait right
+keywait lwin
+keywait right
+keywait lwin
 FormatTime, time, A_now, yyyy'-'MM'-'dd
 FormatTime, date, A_now, dddd
 FormatTime, timeu, A_nowutc, yyyy'/'MM'/'dd'
-send {#}[[%time% %date%]]{#}[[z/%timeu%]]
+send {#}
+send z/%timeu%
+;send {enter}
+send {space}
+send {#}
+send [[%time% %date%]]
+send {escape}
 return
 
 DisplayToolTip(toolTipDescription,toolTipTimer:=500){
