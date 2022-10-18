@@ -1,4 +1,7 @@
-[{:block/name "202 october",
+[{:block/name "",
+  :block/created-at 1665946769906,
+  :block/updated-at 1665946769906}
+ {:block/name "202 october",
   :block/created-at 1665914768043,
   :block/updated-at 1665914787331}
  {:block/name "202 october ",
@@ -96,9 +99,6 @@
  {:block/name "cop",
   :block/created-at 1665913618812,
   :block/updated-at 1665913618812}
- {:block/name "developing.today",
-  :block/created-at 1665948357583,
-  :block/updated-at 1665948357583}
  {:block/name "doing",
   :block/created-at 1665895029182,
   :block/updated-at 1665895029182}
@@ -219,7 +219,7 @@
  {:block/name
   "z/2022/10/16/13/24/38/sunday, october 16/types for locations",
   :block/created-at 1665944727259,
-  :block/updated-at 1665948357590}
+  :block/updated-at 1665947823263}
  {:block/name "z/?????😎",
   :block/created-at 1665915843423,
   :block/updated-at 1665915863267}
