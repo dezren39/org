@@ -37,13 +37,13 @@ FormatTime, date, A_now, dddd', 'MMMM' 'dd
 send z/%time%/%date%/
 return
 
-;[[2022-10-16 Sunday]][[z/2022/10/16]]
+;#[[2022-10-16 Sunday]]#[[z/2022/10/16]]
 #!right::
 #right::
 FormatTime, time, A_now, yyyy'-'MM'-'dd
 FormatTime, date, A_now, dddd
 FormatTime, timeu, A_nowutc, yyyy'/'MM'/'dd'
-send [[%time% %date%]][[z/%timeu%]]
+send {#}[[%time% %date%]]{#}[[z/%timeu%]]
 return
 
 DisplayToolTip(toolTipDescription,toolTipTimer:=500){
