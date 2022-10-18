@@ -3,4 +3,5 @@
 * #card check out the at protocol again
 * #z/2022/10 test
 *
+* #[[2022-10-18 Tuesday]]#z/2022/10/18
 *
