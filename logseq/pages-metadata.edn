@@ -32,6 +32,9 @@
  {:block/name "2022-10-16t05-02-37-0500 sunday, october 16 physics",
   :block/created-at 1665914563230,
   :block/updated-at 1665914575681}
+ {:block/name "2022-10-17 monday",
+  :block/created-at 1666066732853,
+  :block/updated-at 1666066892936}
  {:block/name "2022-10-18 tuesday",
   :block/created-at 1665913449128,
   :block/updated-at 1665920435409}
@@ -220,6 +223,9 @@
   "z/2022/10/16/13/24/38/sunday, october 16/types for locations",
   :block/created-at 1665944727259,
   :block/updated-at 1665948357590}
+ {:block/name "z/2022/10/17",
+  :block/created-at 1666066756075,
+  :block/updated-at 1666066756075}
  {:block/name "z/?????😎",
   :block/created-at 1665915843423,
   :block/updated-at 1665915863267}
