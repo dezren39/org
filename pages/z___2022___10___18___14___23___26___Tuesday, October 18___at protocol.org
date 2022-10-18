@@ -1,2 +1,3 @@
 * [Identity | AT Protocol](https://atproto.com/guides/identity)
+* [[2022-10-18 Tuesday]][[z/2022/10/18]]
 *
