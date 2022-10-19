@@ -1,4 +1,7 @@
-[{:block/name "202 october",
+[{:block/name "13",
+  :block/created-at 1666193561432,
+  :block/updated-at 1666193561432}
+ {:block/name "202 october",
   :block/created-at 1665914768043,
   :block/updated-at 1665914787331}
  {:block/name "202 october ",
@@ -50,6 +53,9 @@
  {:block/name "2022-10-18 tuesday]][[z/2022/10/18",
   :block/created-at 1666127018725,
   :block/updated-at 1666127018725}
+ {:block/name "2022-10-19 wednesday",
+  :block/created-at 1666193486730,
+  :block/updated-at 1666193486730}
  {:block/name "2022/10",
   :block/created-at 1665916289698,
   :block/updated-at 1665916289698}
@@ -252,7 +258,7 @@
  {:block/name
   "z/2022/10/16/13/24/38/sunday, october 16/types for locations",
   :block/created-at 1665944727259,
-  :block/updated-at 1665948357590}
+  :block/updated-at 1666193629817}
  {:block/name "z/2022/10/17",
   :block/created-at 1666066756075,
   :block/updated-at 1666066756075}
@@ -310,6 +316,25 @@
  {:block/name "z/2022/10/18]][[2022-10-18 tuesday",
   :block/created-at 1666126488463,
   :block/updated-at 1666126488463}
+ {:block/name "z/2022/10/19",
+  :block/created-at 1666193497317,
+  :block/updated-at 1666193497317}
+ {:block/name "z/2022/10/19/10",
+  :block/created-at 1666193497320,
+  :block/updated-at 1666193497320}
+ {:block/name "z/2022/10/19/10/31",
+  :block/created-at 1666193497322,
+  :block/updated-at 1666193497322}
+ {:block/name "z/2022/10/19/10/31/31",
+  :block/created-at 1666193497324,
+  :block/updated-at 1666193497324}
+ {:block/name "z/2022/10/19/10/31/31/wednesday, october 19",
+  :block/created-at 1666193497326,
+  :block/updated-at 1666193497326}
+ {:block/name
+  "z/2022/10/19/10/31/31/wednesday, october 19/project xanadu",
+  :block/created-at 1666193497329,
+  :block/updated-at 1666193607879}
  {:block/name "z/?????😎",
   :block/created-at 1665915843423,
   :block/updated-at 1665915863267}
