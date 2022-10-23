@@ -15,5 +15,6 @@
 * build 12u server #rack
 * need a bigger #turtle tank
 * https://www.youtube.com/watch?v=eGunohFHbK0
+* [Applications model | AT Protocol](https://atproto.com/guides/applications)
 *
 *
