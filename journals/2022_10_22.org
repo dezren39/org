@@ -1,0 +1,17 @@
+* #z/2022/10/22 #[[2022-10-22 Saturday]]
+*
+* lots of steps in preparation
+* need to improve electric situation
+* need to fix credit stuff
+* keep track of work
+* #stream setup
+* plot out some videos
+* #dwarf-fortress stream
+* #stable-diffusion
+* #hardware setup
+* refresh my #rust setup
+* #consul #nomad #vault
+* setup #network kit
+* build 12u server #rack
+* need a bigger #turtle tank
+*
