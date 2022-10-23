@@ -55,7 +55,10 @@
   :block/updated-at 1666127018725}
  {:block/name "2022-10-19 wednesday",
   :block/created-at 1666193486730,
-  :block/updated-at 1666193486730}
+  :block/updated-at 1666489209829}
+ {:block/name "2022-10-22 saturday",
+  :block/created-at 1666489061942,
+  :block/updated-at 1666489508619}
  {:block/name "2022/10",
   :block/created-at 1665916289698,
   :block/updated-at 1665916289698}
@@ -129,6 +132,9 @@
  {:block/name "card",
   :block/created-at 1665895029181,
   :block/updated-at 1665895029181}
+ {:block/name "consul",
+  :block/created-at 1666489350224,
+  :block/updated-at 1666489350224}
  {:block/name "contents",
   :block/created-at 1665895029181,
   :block/updated-at 1665895029181}
@@ -144,24 +150,54 @@
  {:block/name "done",
   :block/created-at 1665895029181,
   :block/updated-at 1665895029181}
+ {:block/name "dwarf-fortress",
+  :block/created-at 1666489369664,
+  :block/updated-at 1666489369664}
  {:block/name "eau3d.com",
   :block/created-at 1665922118484,
   :block/updated-at 1665922118484}
  {:block/name "favorites",
   :block/created-at 1665895029181,
   :block/updated-at 1665895029181}
+ {:block/name "hardware",
+  :block/created-at 1666489388033,
+  :block/updated-at 1666489388033}
  {:block/name "in-progress",
   :block/created-at 1665895029182,
   :block/updated-at 1665895029182}
  {:block/name "later",
   :block/created-at 1665895029182,
   :block/updated-at 1665895029182}
+ {:block/name "network",
+  :block/created-at 1666489431071,
+  :block/updated-at 1666489431071}
+ {:block/name "nomad",
+  :block/created-at 1666489347893,
+  :block/updated-at 1666489347893}
  {:block/name "now",
   :block/created-at 1665895029181,
   :block/updated-at 1665895029181}
+ {:block/name "rack",
+  :block/created-at 1666489438417,
+  :block/updated-at 1666489438417}
+ {:block/name "rust",
+  :block/created-at 1666489403396,
+  :block/updated-at 1666489403396}
+ {:block/name "stable-diffusion",
+  :block/created-at 1666489355650,
+  :block/updated-at 1666489355650}
+ {:block/name "stream",
+  :block/created-at 1666489377221,
+  :block/updated-at 1666489377221}
  {:block/name "todo",
   :block/created-at 1665895029182,
   :block/updated-at 1665895029182}
+ {:block/name "turtle",
+  :block/created-at 1666489472516,
+  :block/updated-at 1666489472516}
+ {:block/name "vault",
+  :block/created-at 1666489342070,
+  :block/updated-at 1666489342070}
  {:block/name "wait",
   :block/created-at 1665895029181,
   :block/updated-at 1665895029181}
@@ -335,6 +371,9 @@
   "z/2022/10/19/10/31/31/wednesday, october 19/project xanadu",
   :block/created-at 1666193497329,
   :block/updated-at 1666193607879}
+ {:block/name "z/2022/10/22",
+  :block/created-at 1666489196558,
+  :block/updated-at 1666489196558}
  {:block/name "z/?????😎",
   :block/created-at 1665915843423,
   :block/updated-at 1665915863267}
