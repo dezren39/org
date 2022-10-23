@@ -58,7 +58,10 @@
   :block/updated-at 1666489209829}
  {:block/name "2022-10-22 saturday",
   :block/created-at 1666489061942,
-  :block/updated-at 1666489508619}
+  :block/updated-at 1666491921066}
+ {:block/name "2022-10-23 sunday",
+  :block/created-at 1666501202025,
+  :block/updated-at 1666501202025}
  {:block/name "2022/10",
   :block/created-at 1665916289698,
   :block/updated-at 1665916289698}
