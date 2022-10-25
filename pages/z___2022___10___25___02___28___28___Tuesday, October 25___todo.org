@@ -1,0 +1,5 @@
+* get user added to dev (PS jira ticket?)
+* get pr merged into main (deploys to dev)
+* test dev locally with ssms
+* lambda testing
+* EF bulk insert
