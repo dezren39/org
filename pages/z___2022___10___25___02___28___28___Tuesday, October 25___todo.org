@@ -3,3 +3,5 @@
 * test dev locally with ssms
 * lambda testing
 * EF bulk insert
+* #z/2022/10/25 #[[2022-10-25 Tuesday]]
+*
