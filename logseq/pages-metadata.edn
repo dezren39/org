@@ -68,6 +68,9 @@
  {:block/name "2022-10-25 tuesday",
   :block/created-at 1666682798260,
   :block/updated-at 1666682798260}
+ {:block/name "2022-10-28 friday",
+  :block/created-at 1666973187682,
+  :block/updated-at 1666973187682}
  {:block/name "2022/10",
   :block/created-at 1665916289698,
   :block/updated-at 1665916289698}
@@ -400,7 +403,7 @@
   :block/updated-at 1666682960871}
  {:block/name "z/2022/10/25/02/28/28/tuesday, october 25/todo",
   :block/created-at 1666682960864,
-  :block/updated-at 1666682960864}
+  :block/updated-at 1666707767729}
  {:block/name "z/?????😎",
   :block/created-at 1665915843423,
   :block/updated-at 1665915863267}
