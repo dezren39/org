@@ -1,3 +1,7 @@
 *
 * need music
 * need to become personable
+* build server rack
+* enable basic hosting
+* host my own excalidraw
+*
