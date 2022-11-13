@@ -20,4 +20,12 @@
 * {{renderer :trackhabits_zwzcjpvf}}
 * /
 * #card sunshine protection act
+:PROPERTIES:
+:card-last-interval: 4
+:card-repeats: 1
+:card-ease-factor: 2.36
+:card-next-schedule: 2022-11-17T05:44:45.673Z
+:card-last-reviewed: 2022-11-13T05:44:45.674Z
+:card-last-score: 3
+:END:
 *
