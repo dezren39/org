@@ -1,3 +1,5 @@
 * check lambda sg
 * update self review
 * healthcare?
+* rm db name from lambda
+*
