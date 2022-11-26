@@ -1,4 +1,7 @@
-[{:block/name "202 october",
+[{:block/name "13",
+  :block/created-at 1666193561432,
+  :block/updated-at 1666193561432}
+ {:block/name "202 october",
   :block/created-at 1665914768043,
   :block/updated-at 1665914787331}
  {:block/name "202 october ",
@@ -38,32 +41,51 @@
  {:block/name "2022-10-18 tuesday",
   :block/created-at 1665913449128,
   :block/updated-at 1666122524240}
+ {:block/name "2022-10-18 tuesday]][[z",
+  :block/created-at 1666127018728,
+  :block/updated-at 1666127018728}
+ {:block/name "2022-10-18 tuesday]][[z/2022",
+  :block/created-at 1666127018729,
+  :block/updated-at 1666127018729}
+ {:block/name "2022-10-18 tuesday]][[z/2022/10",
+  :block/created-at 1666127018730,
+  :block/updated-at 1666127018730}
+ {:block/name "2022-10-18 tuesday]][[z/2022/10/18",
+  :block/created-at 1666127018725,
+  :block/updated-at 1666127018725}
  {:block/name "2022-10-19 wednesday",
   :block/created-at 1666193486730,
   :block/updated-at 1666489209829}
  {:block/name "2022-10-22 saturday",
   :block/created-at 1666489061942,
-  :block/updated-at 1668318285698}
+  :block/updated-at 1666491921066}
+ {:block/name "2022-10-23 sunday",
+  :block/created-at 1666501202025,
+  :block/updated-at 1666501202025}
+ {:block/name "2022-10-24 monday",
+  :block/created-at 1666587624776,
+  :block/updated-at 1666587624776}
  {:block/name "2022-10-25 tuesday",
   :block/created-at 1666682798260,
   :block/updated-at 1666682798260}
+ {:block/name "2022-10-28 friday",
+  :block/created-at 1666973187682,
+  :block/updated-at 1666973187682}
+ {:block/name "2022-10-31 monday",
+  :block/created-at 1667238771515,
+  :block/updated-at 1667238771515}
+ {:block/name "2022-11-10 thursday",
+  :block/created-at 1668133003523,
+  :block/updated-at 1668133003523}
  {:block/name "2022-11-11 friday",
-  :block/created-at 1668318227523,
-  :block/updated-at 1668318227523}
+  :block/created-at 1668146441688,
+  :block/updated-at 1668285946087}
  {:block/name "2022-11-12 saturday",
-<<<<<<< HEAD
   :block/created-at 1668232842821,
   :block/updated-at 1668232842821}
  {:block/name "2022-11-16 wednesday",
   :block/created-at 1668643672374,
   :block/updated-at 1668653936237}
-=======
-  :block/created-at 1668317908771,
-  :block/updated-at 1668318326457}
- {:block/name "2022-11-13 sunday",
-  :block/created-at 1668319201893,
-  :block/updated-at 1668330495786}
->>>>>>> 5a712a9f78df468187ca5cf19fcc3aa3e92ed5ae
  {:block/name "2022/10",
   :block/created-at 1665916289698,
   :block/updated-at 1665916289698}
@@ -92,15 +114,33 @@
  {:block/name "3dtropics",
   :block/created-at 1665922916319,
   :block/updated-at 1665922919120}
+ {:block/name "[[2022-10-18",
+  :block/created-at 1666126833373,
+  :block/updated-at 1666126833373}
+ {:block/name "]",
+  :block/created-at 1666126595033,
+  :block/updated-at 1666126595033}
+ {:block/name "]z",
+  :block/created-at 1666126595006,
+  :block/updated-at 1666126595006}
+ {:block/name "]z/2022",
+  :block/created-at 1666126595006,
+  :block/updated-at 1666126595006}
+ {:block/name "]z/2022/10",
+  :block/created-at 1666126595007,
+  :block/updated-at 1666126595007}
+ {:block/name "]z/2022/10/18",
+  :block/created-at 1666126595004,
+  :block/updated-at 1666126595004}
  {:block/name "___z",
-  :block/created-at 1668318127662,
-  :block/updated-at 1668318127662}
+  :block/created-at 1665915595184,
+  :block/updated-at 1665915595184}
  {:block/name "___z/2022-10-16t05-19-50-0500 sunday, october 16",
-  :block/created-at 1668318127664,
-  :block/updated-at 1668318127664}
+  :block/created-at 1665915595186,
+  :block/updated-at 1665916020985}
  {:block/name "___z/2022-10-16t05-19-50-0500 sunday, october 16/?",
-  :block/created-at 1668318127661,
-  :block/updated-at 1668318127661}
+  :block/created-at 1665915595188,
+  :block/updated-at 1665915643508}
  {:block/name "a",
   :block/created-at 1665895029182,
   :block/updated-at 1665895029182}
@@ -141,8 +181,8 @@
   :block/created-at 1666489369664,
   :block/updated-at 1666489369664}
  {:block/name "eau3d.com",
-  :block/created-at 1668318127943,
-  :block/updated-at 1668318127943}
+  :block/created-at 1665922118484,
+  :block/updated-at 1665922118484}
  {:block/name "favorites",
   :block/created-at 1665895029181,
   :block/updated-at 1665895029181}
@@ -233,95 +273,131 @@
   :block/created-at 1665916466960,
   :block/updated-at 1665916561241}
  {:block/name "z/2022/10/16/05/41",
-  :block/created-at 1668318128132,
-  :block/updated-at 1668318128132}
+  :block/created-at 1665916910787,
+  :block/updated-at 1665916910787}
  {:block/name "z/2022/10/16/05/41/41",
-  :block/created-at 1668318128133,
-  :block/updated-at 1668318128133}
+  :block/created-at 1665916910787,
+  :block/updated-at 1665916910787}
  {:block/name "z/2022/10/16/05/41/41/-0500",
-  :block/created-at 1668318128133,
-  :block/updated-at 1668318128133}
+  :block/created-at 1665916910788,
+  :block/updated-at 1665916910788}
  {:block/name "z/2022/10/16/05/41/41/-0500/sunday, october 16",
-  :block/created-at 1668318128136,
-  :block/updated-at 1668318128136}
+  :block/created-at 1665916910789,
+  :block/updated-at 1665916910789}
  {:block/name
   "z/2022/10/16/05/41/41/-0500/sunday, october 16/so this is the format i guess",
-  :block/created-at 1668318128127,
-  :block/updated-at 1668318128127}
+  :block/created-at 1665916910790,
+  :block/updated-at 1665917013342}
  {:block/name "z/2022/10/16/08",
-  :block/created-at 1668318128167,
-  :block/updated-at 1668318128167}
+  :block/created-at 1665929012677,
+  :block/updated-at 1665929012677}
  {:block/name "z/2022/10/16/08/42",
-  :block/created-at 1668318128168,
-  :block/updated-at 1668318128168}
+  :block/created-at 1665929012678,
+  :block/updated-at 1665929012678}
  {:block/name "z/2022/10/16/08/42/44",
-  :block/created-at 1668318128170,
-  :block/updated-at 1668318128170}
+  :block/created-at 1665929012679,
+  :block/updated-at 1665929012679}
  {:block/name "z/2022/10/16/08/42/44/sunday, october 16",
-  :block/created-at 1668318128172,
-  :block/updated-at 1668318128172}
+  :block/created-at 1665929012681,
+  :block/updated-at 1665929012681}
  {:block/name "z/2022/10/16/08/42/44/sunday, october 16/01b.us",
-  :block/created-at 1668318128173,
-  :block/updated-at 1668318128173}
+  :block/created-at 1665929012682,
+  :block/updated-at 1665929012682}
  {:block/name "z/2022/10/16/08/42/44/sunday, october 16/01b.us/rack",
-  :block/created-at 1668318128162,
-  :block/updated-at 1668318128162}
+  :block/created-at 1665929012672,
+  :block/updated-at 1665929012672}
  {:block/name "z/2022/10/16/13",
-  :block/created-at 1668318128250,
-  :block/updated-at 1668318128250}
+  :block/created-at 1665944727257,
+  :block/updated-at 1665944727257}
  {:block/name "z/2022/10/16/13/24",
-  :block/created-at 1668318128251,
-  :block/updated-at 1668318128251}
+  :block/created-at 1665944727258,
+  :block/updated-at 1665944727258}
  {:block/name "z/2022/10/16/13/24/38",
-  :block/created-at 1668318128253,
-  :block/updated-at 1668318128253}
+  :block/created-at 1665944727258,
+  :block/updated-at 1665944727258}
  {:block/name "z/2022/10/16/13/24/38/sunday, october 16",
-  :block/created-at 1668318128254,
-  :block/updated-at 1668318128254}
+  :block/created-at 1665944727259,
+  :block/updated-at 1665944727259}
  {:block/name
   "z/2022/10/16/13/24/38/sunday, october 16/types for locations",
-  :block/created-at 1668318128243,
-  :block/updated-at 1668318128243}
+  :block/created-at 1665944727259,
+  :block/updated-at 1666193629817}
  {:block/name "z/2022/10/17",
   :block/created-at 1666066756075,
   :block/updated-at 1666066756075}
  {:block/name "z/2022/10/18",
   :block/created-at 1666121014409,
   :block/updated-at 1666127925374}
+ {:block/name "z/2022/10/18 #[[2022-10-18 tuesday",
+  :block/created-at 1666127481221,
+  :block/updated-at 1666127481221}
  {:block/name "z/2022/10/18/14",
-  :block/created-at 1668318128361,
-  :block/updated-at 1668318128361}
+  :block/created-at 1666121014410,
+  :block/updated-at 1666121014410}
  {:block/name "z/2022/10/18/14/23",
-  :block/created-at 1668318128362,
-  :block/updated-at 1668318128362}
+  :block/created-at 1666121014411,
+  :block/updated-at 1666121014411}
  {:block/name "z/2022/10/18/14/23/26",
-  :block/created-at 1668318128363,
-  :block/updated-at 1668318128363}
+  :block/created-at 1666121014411,
+  :block/updated-at 1666121014411}
  {:block/name "z/2022/10/18/14/23/26/tuesday, october 18",
-  :block/created-at 1668318128364,
-  :block/updated-at 1668318128364}
+  :block/created-at 1666121014412,
+  :block/updated-at 1666121014412}
  {:block/name "z/2022/10/18/14/23/26/tuesday, october 18/at protocol",
-  :block/created-at 1668318128355,
-  :block/updated-at 1668318128355}
+  :block/created-at 1666121014412,
+  :block/updated-at 1666121919971}
+ {:block/name "z/2022/10/182022",
+  :block/created-at 1666126838455,
+  :block/updated-at 1666126838455}
+ {:block/name "z/2022/10/182022/10",
+  :block/created-at 1666126838456,
+  :block/updated-at 1666126838456}
+ {:block/name "z/2022/10/182022/10/18",
+  :block/created-at 1666126838457,
+  :block/updated-at 1666126838457}
+ {:block/name "z/2022/10/182022/10/18/16",
+  :block/created-at 1666126838458,
+  :block/updated-at 1666126838458}
+ {:block/name "z/2022/10/182022/10/18/16/00",
+  :block/created-at 1666126838459,
+  :block/updated-at 1666126838459}
+ {:block/name "z/2022/10/182022/10/18/16/00/36",
+  :block/created-at 1666126838460,
+  :block/updated-at 1666126838460}
+ {:block/name "z/2022/10/182022/10/18/16/00/36/tuesday",
+  :block/created-at 1666126838451,
+  :block/updated-at 1666126838451}
+ {:block/name "z/2022/10/18[",
+  :block/created-at 1666126700649,
+  :block/updated-at 1666126700649}
+ {:block/name "z/2022/10/18[[2022-10-18 tuesday]]",
+  :block/created-at 1666126860478,
+  :block/updated-at 1666126860478}
+ {:block/name "z/2022/10/18]][",
+  :block/created-at 1666126704059,
+  :block/updated-at 1666126704059}
+ {:block/name "z/2022/10/18]][[2022-10-18 tuesday",
+  :block/created-at 1666126488463,
+  :block/updated-at 1666126488463}
  {:block/name "z/2022/10/19",
   :block/created-at 1666193497317,
   :block/updated-at 1666193497317}
  {:block/name "z/2022/10/19/10",
-  :block/created-at 1668318128392,
-  :block/updated-at 1668318128392}
+  :block/created-at 1666193497320,
+  :block/updated-at 1666193497320}
  {:block/name "z/2022/10/19/10/31",
-  :block/created-at 1668318128393,
-  :block/updated-at 1668318128393}
+  :block/created-at 1666193497322,
+  :block/updated-at 1666193497322}
  {:block/name "z/2022/10/19/10/31/31",
-  :block/created-at 1668318128394,
-  :block/updated-at 1668318128394}
+  :block/created-at 1666193497324,
+  :block/updated-at 1666193497324}
  {:block/name "z/2022/10/19/10/31/31/wednesday, october 19",
-  :block/created-at 1668318128395,
-  :block/updated-at 1668318128395}
+  :block/created-at 1666193497326,
+  :block/updated-at 1666193497326}
  {:block/name
   "z/2022/10/19/10/31/31/wednesday, october 19/project xanadu",
-  :block/created-at 1668318128388,
-  :block/updated-at 1668318128388}
+  :block/created-at 1666193497329,
+  :block/updated-at 1666193607879}
  {:block/name "z/2022/10/22",
   :block/created-at 1666489196558,
   :block/updated-at 1666489196558}
@@ -329,26 +405,26 @@
   :block/created-at 1666682960868,
   :block/updated-at 1666682960868}
  {:block/name "z/2022/10/25/02",
-  :block/created-at 1668318128435,
-  :block/updated-at 1668318128435}
+  :block/created-at 1666682960869,
+  :block/updated-at 1666682960869}
  {:block/name "z/2022/10/25/02/28",
-  :block/created-at 1668318128436,
-  :block/updated-at 1668318128436}
+  :block/created-at 1666682960870,
+  :block/updated-at 1666682960870}
  {:block/name "z/2022/10/25/02/28/28",
-  :block/created-at 1668318128437,
-  :block/updated-at 1668318128437}
+  :block/created-at 1666682960870,
+  :block/updated-at 1666682960870}
  {:block/name "z/2022/10/25/02/28/28/tuesday, october 25",
-  :block/created-at 1668318128438,
-  :block/updated-at 1668318128438}
+  :block/created-at 1666682960871,
+  :block/updated-at 1666682960871}
  {:block/name "z/2022/10/25/02/28/28/tuesday, october 25/todo",
-  :block/created-at 1668318128430,
-  :block/updated-at 1668318128430}
+  :block/created-at 1666682960864,
+  :block/updated-at 1666707767729}
  {:block/name "z/?????😎",
   :block/created-at 1665915843423,
   :block/updated-at 1665915863267}
  {:block/name "ze",
-  :block/created-at 1668318128450,
-  :block/updated-at 1668318128450}
+  :block/created-at 1665916143123,
+  :block/updated-at 1665916143123}
  {:block/name "ze/frank",
-  :block/created-at 1668318128449, 
-  :block/updated-at 1668318128449}]
+  :block/created-at 1665916143124, 
+  :block/updated-at 1665916146068}]
