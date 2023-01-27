@@ -4,4 +4,8 @@
 * todo deploy osp s4
 * todo deploy vtms osp s3
 *
-*
+* org.springframework.beans.NotWritablePropertyException
+* Invalid property
+* of bean class
+* 'cacheIsLoaded' is not writable or has an invalid setter method
+* Does the parameter type of the setter match the return type of the getter?
