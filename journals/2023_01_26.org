@@ -1,1 +1,6 @@
 * i've been doing a lot of java and javascript lately.
+*
+* todo flip last 2 bootstreap parameters
+* todo deploy osp s4
+* todo deploy vtms osp s3
+*
