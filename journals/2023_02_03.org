@@ -1,8 +1,7 @@
-*
 * dr pr DONE
-* configuration gitversion
-* configuration producer systemd
-* configuration producer config files any config?
-* ami pull producer binary
-* infra check iam for instance / s3 producer
-* diagram
+* configuration gitversion CHRISD
+* configuration producer systemd TODO
+* configuration producer config files any config? TODO
+* ami pull producer binary TODO(CHRISD IF TIME)
+* infra check iam for instance / s3 producer TODO
+* diagram TODO.HALFDONE
