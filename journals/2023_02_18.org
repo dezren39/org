@@ -1,0 +1,51 @@
+* [[[[https://docs.datadoghq.com/integrations/journald/?tab=host][journald]]][journald]]
+* TODO ``` 
+usermod -a -G systemd-journal dd-agent
+```
+```
+logs_enabled: true
+```
+Then add this configuration block to your journald.d/conf.yaml file to start collecting your Logs:
+```
+logs:
+    - type: journald
+      container_mode: true
+```
+```
+logs:
+    - type: journald
+      config_id: my-app1
+      source: my-app1
+      service: my-app1
+      include_units:
+          - my-app1.service
+    - type: journald
+      config_id: my-app2
+      source: my-app2
+      service: my-app2
+      include_units:
+          - my-app2.service
+```
+https://github.com/DataDog/datadog-agent/blob/main/cmd/agent/dist/conf.d/systemd.d/conf.yaml.example
+```
+public class ContactModel : PageModel
+{
+    private readonly ILogger _logger;
+
+    public ContactModel(ILoggerFactory logger)
+    {
+        _logger = logger.CreateLogger("MyCategory");
+    }
+[HttpGet]
+public IActionResult Test1(int id)
+{
+    var routeInfo = ControllerContext.ToCtxString(id);
+
+    _logger.Log(LogLevel.Information, MyLogEvents.TestItem, routeInfo);
+    _logger.LogInformation(MyLogEvents.TestItem, routeInfo);
+
+    return ControllerContext.MyDisplayRouteInfo();
+}
+```
+*
+*
